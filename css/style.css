@@ -50,6 +50,10 @@ body blockquote {
     background: url('../img/buttonsAndLogo.png') no-repeat;
 }
 /*github ribbon*/
+a[href="https://github.coom/GithubProfile/century"] img {
+    width: 149px;
+    height: 149px;
+}
 @media (max-width: 570px), (max-device-width: 570px) {
     a[href="https://github.com/GithubProfile/century"] img {
         width: 80px;
