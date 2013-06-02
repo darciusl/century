@@ -49,6 +49,13 @@ body blockquote {
 .logo, .playVideo, .view, .read, .playAudio, .mute {
     background: url('../img/buttonsAndLogo.png') no-repeat;
 }
+/*github ribbon*/
+@media (max-width: 570px), (max-device-width: 570px) {
+    a[href="https://github.com/GithubProfile/century"] img {
+        width: 80px;
+        height: 80px;
+    }
+}
 /*header*/
 header {
     max-width: 1200px;
