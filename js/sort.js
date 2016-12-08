@@ -85,5 +85,4 @@
     }, false);
     
     eval(localStorage['sortByCategory']).click();
-    //yaya, I know eval is evil, but what is the other way to do something like this?
 }());
